@@ -1,3 +1,4 @@
-# YMM Team Project
+# YMM-Project Team 
 
-Platform for automated student learning.
+### This is us,
+And now, we`re develop platform for automated student learning.
